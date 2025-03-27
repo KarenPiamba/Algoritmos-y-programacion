@@ -1,6 +1,6 @@
 saldo=1000000
 while True:
-    print("\n--- Cajero Automático ---")
+    print("-Cajero Automático")
     print("1. Depositar dinero")
     print("2. Retirar dinero")
     print("3. Consultar saldo")
