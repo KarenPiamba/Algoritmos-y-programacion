@@ -3,11 +3,11 @@ screen = turtle.Screen()
 screen.bgcolor("black")
 t = turtle.Turtle()
 t.color("light blue")
-t.speed(0)
+t.speed(0.5)
 t.pensize(1)
 
 for i in range(60):
-    t.circle(100)
+    t.circle(200)
     t.left(30)
 
 t.penup()
