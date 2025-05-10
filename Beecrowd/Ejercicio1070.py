@@ -1,0 +1,15 @@
+N=int(input())
+if N%2==0:
+    print(f"{N+1}")
+    print(f"{N+3}")
+    print(f"{N+5}")
+    print(f"{N+7}")
+    print(f"{N+9}")
+    print(f"{N+11}")
+else:
+    print(f"{N}")
+    print(f"{N+2}")
+    print(f"{N+4}")
+    print(f"{N+6}")
+    print(f"{N+8}")
+    print(f"{N+10}")
